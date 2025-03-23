@@ -68,10 +68,10 @@ This repository helps you understand key differences and new functionalities:
 
 ## Additional Resources
 
+- **OpenAI Responses API Launch Announcement**:  
+  [https://openai.com/index/new-tools-for-building-agents/](https://openai.com/index/new-tools-for-building-agents/)
 - **OpenAI Responses API Documentation**:  
   [https://platform.openai.com/docs/quickstart?api-mode=responses](https://platform.openai.com/docs/quickstart?api-mode=responses)  
-- **OpenAI Responses API Launch Announcement**:  
-  [Product Hunt](https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk)
 - **OpenAI Chat API Documentation**:  
   [https://platform.openai.com/docs/quickstart?api-mode=chat](https://platform.openai.com/docs/quickstart?api-mode=chat)
 
